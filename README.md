@@ -1,0 +1,1 @@
+This is a java backend code that connects to a ftp server and retrieves videos, images and information from text files. I wrote this code for the SmartCity project, The code also does ticket generation for the SmartCity Project.
