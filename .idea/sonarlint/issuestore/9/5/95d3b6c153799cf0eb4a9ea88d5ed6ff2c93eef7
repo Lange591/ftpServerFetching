@@ -1,0 +1,9 @@
+
+b
+java:S2184é"FCast one of the operands of this multiplication operation to a "long".(œÀìÛùÿÿÿÿ
+Q	java:S125["<This block of commented-out lines of code should be removed.(æ±€Ù
+h
+java:S6204|"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+R	java:S125´"<This block of commented-out lines of code should be removed.(µ§¬
+R
+java:S1144Ó";Remove this unused private "mapToViolationResponse" method.(ÚÕ÷§
